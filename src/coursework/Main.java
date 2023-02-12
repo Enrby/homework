@@ -18,7 +18,7 @@ public class Main {
         EMPLOYEES[6] = new Employee("Сотрудник 7", 7, 70000);
         EMPLOYEES[7] = new Employee("Сотрудник 8", 8, 80000);
         EMPLOYEES[8] = new Employee("Сотрудник 9", 9, 90000);
-        EMPLOYEES[9] = new Employee("Сотрудник 10", 10, 100000);
+        EMPLOYEES[9] = new Employee("Сотрудник 10", 10, 110000);
         printFullInfo();
         System.out.println("Сумма ЗП: " + totalSalaries());
         System.out.println("Сотрудник с минимальной ЗП: " + findEmployeeWithMinSalary());

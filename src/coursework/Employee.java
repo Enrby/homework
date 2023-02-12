@@ -45,7 +45,7 @@ public class Employee {
     @Override
     public String toString() {
         String format = String.format(
-                "id: %d, ФИО: %s, ЗП: %d, № отдела: %d",
+                "id: %d, ФИО: %s, Зарплата: %d, № отдела: %d",
                 id,
                 fullName,
                 salary,
